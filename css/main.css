@@ -1555,7 +1555,7 @@ tr, td {
 .contacts__map {
 	position: relative;
 	background-color: var(--grey-color);
-	line-height: 1;
+	line-height: 0;
 	border-radius: 20px;
 	overflow: hidden;
 	height: 100%;
