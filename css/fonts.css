@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'EB Garamond';
+    src: local('EB Garamond Bold'), local('EBGaramond-Bold'),
+        url('../fonts/EBGaramond-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter Regular'), local('Inter-Regular'),
+        url('../fonts/Inter-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter Italic'), local('Inter-Italic'),
+        url('../fonts/Inter-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter Medium'), local('Inter-Medium'),
+        url('../fonts/Inter-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter Medium Italic'), local('Inter-MediumItalic'),
+        url('../fonts/Inter-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter Bold'), local('Inter-Bold'),
+        url('../fonts/Inter-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter Bold Italic'), local('Inter-BoldItalic'),
+        url('../fonts/Inter-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+	font-display: swap;
+}
+
