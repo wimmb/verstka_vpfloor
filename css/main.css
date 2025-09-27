@@ -1670,7 +1670,7 @@ tr, td {
 		width: 100%;
 	}
 	.contacts__map {
-		height: inherit;
+		height: 420px;
 	}
 }
 
