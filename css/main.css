@@ -861,7 +861,6 @@ tr, td {
 .hero__text {
 	margin-top: 30px;
 	font-size: 20px;
-	font-weight: 500;
 }
 
 .hero__image-mob {
@@ -1081,7 +1080,7 @@ tr, td {
 
 .servs__tabs-nav {
 	display: flex;
-	gap: 24px;
+	gap: 12px;
 	overflow-x: auto;
 	white-space: nowrap;
 	-webkit-overflow-scrolling: touch;
@@ -1094,11 +1093,12 @@ tr, td {
 
 .servs__tabs-tab {
 	flex: 0 0 auto;
-	padding: 5px 0 10px;
+	padding: 8px 15px 9px;
 	color: var(--dark2-color);
-	font-size: 28px;
+	font-size: 26px;
 	line-height: 1.1;
-	border-bottom: 1px solid transparent;
+	border: 1px solid transparent;
+	border-radius: 18px;
 	cursor: pointer;
 	transition: all 0.3s ease;
 }
@@ -1704,7 +1704,6 @@ tr, td {
 	.hero__text {
 		margin-top: 20px;
 		font-size: 16px;
-		font-weight: 400;
 	}
 	.hero__image-mob {
 		position: relative;
